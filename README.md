@@ -21,4 +21,4 @@ PKP
 
 ---
 
-Zostana po nas zęby guziki i butelki PET.
+Zostaną po nas zęby, guziki i butelki PET.
