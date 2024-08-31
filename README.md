@@ -8,11 +8,11 @@ Rzadkie wydarzenia zabijają zbyt przystosowanych.
 
 ---
 
-Kto rano wstaję ten unika upałów.
+Kto rano wstaje ten unika upałów.
 
 ---
 
-Kto chodź skrótami ten szybko tyje.
+Kto chodzi skrótami ten szybko tyje.
 
 ---
 
