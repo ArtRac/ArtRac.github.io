@@ -1,0 +1,2 @@
+- ustawić sensowny wygląd,
+- dodać tłumaczenia
