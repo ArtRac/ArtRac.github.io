@@ -1,0 +1,36 @@
+# Tytuł strony
+title: Moja Strona
+
+# Opis strony
+description: 
+
+# Adres URL strony
+url: "https://artrac.github.io"
+
+# Informacje o autorze
+author:
+  name: ArtRac
+  email: 
+  bio: "Jestem pasjonatem technologii i programowania."
+
+# Ustawienia języka
+language: pl
+
+# Ustawienia nawigacji
+navigation:
+  - title: "Strona główna"
+    url: /
+  - title: "O mnie"
+    url: /o-mnie/
+  - title: "Blog"
+    url: /blog/
+
+# Ustawienia dla postów
+posts:
+  permalink: /:year/:month/:day/:title/
+  layout: post
+
+# Ustawienia dla layoutów
+layouts:
+  default: default
+  post: post
