@@ -33,8 +33,3 @@ navigation:
 posts:
   permalink: /:year/:month/:day/:title/
   layout: post
-
-# Ustawienia dla layoutów
-layouts:
-  default: default
-  post: post
