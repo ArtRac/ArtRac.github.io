@@ -7,6 +7,7 @@ title: Moja Strona
 
 # Opis strony
 description: 
+Strona która jak dotąd nie ma jasnego celu.
 
 # Adres URL strony
 url: "https://artrac.github.io"
@@ -15,7 +16,7 @@ url: "https://artrac.github.io"
 author:
   name: ArtRac
   email: 
-  bio: "Jestem pasjonatem technologii i programowania."
+  bio: 
 
 # Ustawienia języka
 language: pl
