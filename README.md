@@ -22,3 +22,7 @@ PKP
 ---
 
 Zostaną po nas zęby, guziki i butelki PET.
+
+---
+
+Gdyby w czasach Kopernika była nagroda Ig Nobla to pewnie by ją dostał.
